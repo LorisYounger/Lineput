@@ -1,0 +1,18 @@
+﻿Egg
+菜单系统/n Egg made by LB  /n你可以修改/path\egg.txt来修改egg
+path
+LinePut文件夹：/path
+LB
+LB change the World
+EggHelp
+输入'opentxt#egg.txt'查看所有可以输入的彩蛋和返回内容
+cd
+nothing here
+2333
+666666
+2.0
+Are you ready for Lineput2.0?
+help
+输入help1查看更多帮助
+help1
+输入help查看帮助

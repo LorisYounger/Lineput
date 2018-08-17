@@ -1,0 +1,121 @@
+C:\Users\ZOUJI\documents\visual studio 2013\Projects\Lineput\Lineput\bin\Debug\Lineput.exe.config
+C:\Users\ZOUJI\documents\visual studio 2013\Projects\Lineput\Lineput\bin\Debug\Lineput.exe
+C:\Users\ZOUJI\documents\visual studio 2013\Projects\Lineput\Lineput\bin\Debug\Lineput.pdb
+C:\Users\ZOUJI\documents\visual studio 2013\Projects\Lineput\Lineput\bin\Debug\Lineput.xml
+C:\Users\ZOUJI\documents\visual studio 2013\Projects\Lineput\Lineput\bin\Debug\Interop.WMPLib.dll
+C:\Users\ZOUJI\documents\visual studio 2013\Projects\Lineput\Lineput\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ZOUJI\documents\visual studio 2013\Projects\Lineput\Lineput\obj\Debug\Interop.WMPLib.dll
+C:\Users\ZOUJI\documents\visual studio 2013\Projects\Lineput\Lineput\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\ZOUJI\documents\visual studio 2013\Projects\Lineput\Lineput\obj\Debug\Lineput.vbproj.ResolveComReference.cache
+C:\Users\ZOUJI\documents\visual studio 2013\Projects\Lineput\Lineput\obj\Debug\Lineput.FrmTimer.resources
+C:\Users\ZOUJI\documents\visual studio 2013\Projects\Lineput\Lineput\obj\Debug\Lineput.Frmmain.resources
+C:\Users\ZOUJI\documents\visual studio 2013\Projects\Lineput\Lineput\obj\Debug\Lineput.FrmMov.resources
+C:\Users\ZOUJI\documents\visual studio 2013\Projects\Lineput\Lineput\obj\Debug\Lineput.FrmMsgBox.resources
+C:\Users\ZOUJI\documents\visual studio 2013\Projects\Lineput\Lineput\obj\Debug\Lineput.FrmPic.resources
+C:\Users\ZOUJI\documents\visual studio 2013\Projects\Lineput\Lineput\obj\Debug\Lineput.Resources.resources
+C:\Users\ZOUJI\documents\visual studio 2013\Projects\Lineput\Lineput\obj\Debug\Lineput.vbproj.GenerateResource.Cache
+C:\Users\ZOUJI\documents\visual studio 2013\Projects\Lineput\Lineput\obj\Debug\Lineput.exe
+C:\Users\ZOUJI\documents\visual studio 2013\Projects\Lineput\Lineput\obj\Debug\Lineput.xml
+C:\Users\ZOUJI\documents\visual studio 2013\Projects\Lineput\Lineput\obj\Debug\Lineput.pdb
+C:\Users\ZOUJI\documents\visual studio 2013\Projects\Lineput\Lineput\obj\Debug\Lineput.FrmEditor.resources
+D:\Documents\Visual Studio 2013\Projects\Lineput\Lineput\bin\Debug\Lineput.exe.config
+D:\Documents\Visual Studio 2013\Projects\Lineput\Lineput\obj\Debug\Interop.WMPLib.dll
+D:\Documents\Visual Studio 2013\Projects\Lineput\Lineput\obj\Debug\AxInterop.WMPLib.dll
+D:\Documents\Visual Studio 2013\Projects\Lineput\Lineput\obj\Debug\Lineput.vbproj.ResolveComReference.cache
+D:\Documents\Visual Studio 2013\Projects\Lineput\Lineput\obj\Debug\Lineput.exe
+D:\Documents\Visual Studio 2013\Projects\Lineput\Lineput\obj\Debug\Lineput.xml
+D:\Documents\Visual Studio 2013\Projects\Lineput\Lineput\obj\Debug\Lineput.pdb
+D:\Documents\Visual Studio 2013\Projects\Lineput\Lineput\bin\Debug\Lineput.exe
+D:\Documents\Visual Studio 2013\Projects\Lineput\Lineput\bin\Debug\Lineput.pdb
+D:\Documents\Visual Studio 2013\Projects\Lineput\Lineput\bin\Debug\Lineput.xml
+D:\Documents\Visual Studio 2013\Projects\Lineput\Lineput\bin\Debug\Interop.WMPLib.dll
+D:\Documents\Visual Studio 2013\Projects\Lineput\Lineput\bin\Debug\AxInterop.WMPLib.dll
+D:\Documents\Visual Studio 2013\Projects\Lineput\Lineput\obj\Debug\Lineput.FrmEditor.resources
+D:\Documents\Visual Studio 2013\Projects\Lineput\Lineput\obj\Debug\Lineput.FrmTimer.resources
+D:\Documents\Visual Studio 2013\Projects\Lineput\Lineput\obj\Debug\Lineput.Frmmain.resources
+D:\Documents\Visual Studio 2013\Projects\Lineput\Lineput\obj\Debug\Lineput.FrmMov.resources
+D:\Documents\Visual Studio 2013\Projects\Lineput\Lineput\obj\Debug\Lineput.FrmMsgBox.resources
+D:\Documents\Visual Studio 2013\Projects\Lineput\Lineput\obj\Debug\Lineput.FrmPic.resources
+D:\Documents\Visual Studio 2013\Projects\Lineput\Lineput\obj\Debug\Lineput.Resources.resources
+D:\Documents\Visual Studio 2013\Projects\Lineput\Lineput\obj\Debug\Lineput.vbproj.GenerateResource.Cache
+F:\Documents\Visual Studio 2013\Projects\Lineput\Lineput\obj\Debug\Interop.WMPLib.dll
+F:\Documents\Visual Studio 2013\Projects\Lineput\Lineput\obj\Debug\AxInterop.WMPLib.dll
+F:\Documents\Visual Studio 2013\Projects\Lineput\Lineput\obj\Debug\Lineput.vbproj.ResolveComReference.cache
+F:\Documents\Visual Studio 2013\Projects\Lineput\Lineput\obj\Debug\Lineput.FrmEditor.resources
+F:\Documents\Visual Studio 2013\Projects\Lineput\Lineput\obj\Debug\Lineput.FrmTimer.resources
+F:\Documents\Visual Studio 2013\Projects\Lineput\Lineput\obj\Debug\Lineput.Frmmain.resources
+F:\Documents\Visual Studio 2013\Projects\Lineput\Lineput\obj\Debug\Lineput.FrmMov.resources
+F:\Documents\Visual Studio 2013\Projects\Lineput\Lineput\obj\Debug\Lineput.FrmMsgBox.resources
+F:\Documents\Visual Studio 2013\Projects\Lineput\Lineput\obj\Debug\Lineput.FrmPic.resources
+F:\Documents\Visual Studio 2013\Projects\Lineput\Lineput\obj\Debug\Lineput.FrmMaker.resources
+F:\Documents\Visual Studio 2013\Projects\Lineput\Lineput\obj\Debug\Lineput.Resources.resources
+F:\Documents\Visual Studio 2013\Projects\Lineput\Lineput\obj\Debug\Lineput.vbproj.GenerateResource.Cache
+F:\Documents\Visual Studio 2013\Projects\Lineput\Lineput\obj\Debug\Lineput.pdb
+F:\Documents\Visual Studio 2013\Projects\Lineput\Lineput\bin\Debug\Lineput.exe.config
+F:\Documents\Visual Studio 2013\Projects\Lineput\Lineput\bin\Debug\Lineput.exe
+F:\Documents\Visual Studio 2013\Projects\Lineput\Lineput\bin\Debug\Lineput.pdb
+F:\Documents\Visual Studio 2013\Projects\Lineput\Lineput\bin\Debug\Lineput.xml
+F:\Documents\Visual Studio 2013\Projects\Lineput\Lineput\bin\Debug\Interop.WMPLib.dll
+F:\Documents\Visual Studio 2013\Projects\Lineput\Lineput\bin\Debug\AxInterop.WMPLib.dll
+F:\Documents\Visual Studio 2013\Projects\Lineput\Lineput\obj\Debug\Lineput.exe
+F:\Documents\Visual Studio 2013\Projects\Lineput\Lineput\obj\Debug\Lineput.xml
+F:\Documents\Visual Studio 2013\Projects\Lineput\Lineput\bin\Debug\Lineput.exe.manifest
+F:\Documents\Visual Studio 2013\Projects\Lineput\Lineput\bin\Debug\Lineput.application
+F:\Documents\Visual Studio 2013\Projects\Lineput\Lineput\obj\Debug\Lineput.exe.manifest
+F:\Documents\Visual Studio 2013\Projects\Lineput\Lineput\obj\Debug\Lineput.application
+C:\Users\Zou Jin\Documents\Visual Studio 2013\Projects\Lineput\Lineput\bin\Debug\Lineput.exe.config
+C:\Users\Zou Jin\Documents\Visual Studio 2013\Projects\Lineput\Lineput\bin\Debug\Lineput.exe.manifest
+C:\Users\Zou Jin\Documents\Visual Studio 2013\Projects\Lineput\Lineput\bin\Debug\Lineput.application
+C:\Users\Zou Jin\Documents\Visual Studio 2013\Projects\Lineput\Lineput\bin\Debug\Lineput.exe
+C:\Users\Zou Jin\Documents\Visual Studio 2013\Projects\Lineput\Lineput\bin\Debug\Lineput.pdb
+C:\Users\Zou Jin\Documents\Visual Studio 2013\Projects\Lineput\Lineput\bin\Debug\Lineput.xml
+C:\Users\Zou Jin\Documents\Visual Studio 2013\Projects\Lineput\Lineput\bin\Debug\Interop.WMPLib.dll
+C:\Users\Zou Jin\Documents\Visual Studio 2013\Projects\Lineput\Lineput\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Zou Jin\Documents\Visual Studio 2013\Projects\Lineput\Lineput\obj\Debug\Interop.WMPLib.dll
+C:\Users\Zou Jin\Documents\Visual Studio 2013\Projects\Lineput\Lineput\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Zou Jin\Documents\Visual Studio 2013\Projects\Lineput\Lineput\obj\Debug\Lineput.vbproj.ResolveComReference.cache
+C:\Users\Zou Jin\Documents\Visual Studio 2013\Projects\Lineput\Lineput\obj\Debug\Lineput.FrmEditor.resources
+C:\Users\Zou Jin\Documents\Visual Studio 2013\Projects\Lineput\Lineput\obj\Debug\Lineput.FrmTimer.resources
+C:\Users\Zou Jin\Documents\Visual Studio 2013\Projects\Lineput\Lineput\obj\Debug\Lineput.Frmmain.resources
+C:\Users\Zou Jin\Documents\Visual Studio 2013\Projects\Lineput\Lineput\obj\Debug\Lineput.FrmMov.resources
+C:\Users\Zou Jin\Documents\Visual Studio 2013\Projects\Lineput\Lineput\obj\Debug\Lineput.FrmMsgBox.resources
+C:\Users\Zou Jin\Documents\Visual Studio 2013\Projects\Lineput\Lineput\obj\Debug\Lineput.FrmPic.resources
+C:\Users\Zou Jin\Documents\Visual Studio 2013\Projects\Lineput\Lineput\obj\Debug\Lineput.FrmMaker.resources
+C:\Users\Zou Jin\Documents\Visual Studio 2013\Projects\Lineput\Lineput\obj\Debug\Lineput.Resources.resources
+C:\Users\Zou Jin\Documents\Visual Studio 2013\Projects\Lineput\Lineput\obj\Debug\Lineput.vbproj.GenerateResource.Cache
+C:\Users\Zou Jin\Documents\Visual Studio 2013\Projects\Lineput\Lineput\obj\Debug\Lineput.exe.manifest
+C:\Users\Zou Jin\Documents\Visual Studio 2013\Projects\Lineput\Lineput\obj\Debug\Lineput.application
+C:\Users\Zou Jin\Documents\Visual Studio 2013\Projects\Lineput\Lineput\obj\Debug\Lineput.exe
+C:\Users\Zou Jin\Documents\Visual Studio 2013\Projects\Lineput\Lineput\obj\Debug\Lineput.xml
+C:\Users\Zou Jin\Documents\Visual Studio 2013\Projects\Lineput\Lineput\obj\Debug\Lineput.pdb
+C:\Users\Zou Jin\Documents\Visual Studio 2013\Projects\Lineput\Lineput\obj\Debug\Lineput.FrmPassword.resources
+C:\Users\Zou Jin\Documents\Visual Studio 2013\Projects\Lineput\Lineput\obj\Debug\Lineput.TrustInfo.xml
+C:\Users\ZouJin\Documents\Visual Studio 2017\Projects\Lineput\Lineput\obj\Debug\Lineput.vbprojResolveAssemblyReference.cache
+C:\Users\ZouJin\Documents\Visual Studio 2017\Projects\Lineput\Lineput\obj\Debug\Lineput.exe
+C:\Users\ZouJin\Documents\Visual Studio 2017\Projects\Lineput\Lineput\obj\Debug\Lineput.xml
+C:\Users\ZouJin\Documents\Visual Studio 2017\Projects\Lineput\Lineput\obj\Debug\Lineput.pdb
+C:\Users\ZouJin\Documents\Visual Studio 2017\Projects\Lineput\Lineput\bin\Debug\Lineput.exe.config
+C:\Users\ZouJin\Documents\Visual Studio 2017\Projects\Lineput\Lineput\bin\Debug\Lineput.exe.manifest
+C:\Users\ZouJin\Documents\Visual Studio 2017\Projects\Lineput\Lineput\bin\Debug\Lineput.application
+C:\Users\ZouJin\Documents\Visual Studio 2017\Projects\Lineput\Lineput\bin\Debug\Lineput.exe
+C:\Users\ZouJin\Documents\Visual Studio 2017\Projects\Lineput\Lineput\bin\Debug\Lineput.pdb
+C:\Users\ZouJin\Documents\Visual Studio 2017\Projects\Lineput\Lineput\bin\Debug\Lineput.xml
+C:\Users\ZouJin\Documents\Visual Studio 2017\Projects\Lineput\Lineput\bin\Debug\Interop.WMPLib.dll
+C:\Users\ZouJin\Documents\Visual Studio 2017\Projects\Lineput\Lineput\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ZouJin\Documents\Visual Studio 2017\Projects\Lineput\Lineput\obj\Debug\Interop.WMPLib.dll
+C:\Users\ZouJin\Documents\Visual Studio 2017\Projects\Lineput\Lineput\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\ZouJin\Documents\Visual Studio 2017\Projects\Lineput\Lineput\obj\Debug\Lineput.vbproj.ResolveComReference.cache
+C:\Users\ZouJin\Documents\Visual Studio 2017\Projects\Lineput\Lineput\obj\Debug\Lineput.FrmEditor.resources
+C:\Users\ZouJin\Documents\Visual Studio 2017\Projects\Lineput\Lineput\obj\Debug\Lineput.FrmPassword.resources
+C:\Users\ZouJin\Documents\Visual Studio 2017\Projects\Lineput\Lineput\obj\Debug\Lineput.FrmTimer.resources
+C:\Users\ZouJin\Documents\Visual Studio 2017\Projects\Lineput\Lineput\obj\Debug\Lineput.FrmMain.resources
+C:\Users\ZouJin\Documents\Visual Studio 2017\Projects\Lineput\Lineput\obj\Debug\Lineput.FrmMov.resources
+C:\Users\ZouJin\Documents\Visual Studio 2017\Projects\Lineput\Lineput\obj\Debug\Lineput.FrmMsgBox.resources
+C:\Users\ZouJin\Documents\Visual Studio 2017\Projects\Lineput\Lineput\obj\Debug\Lineput.FrmPic.resources
+C:\Users\ZouJin\Documents\Visual Studio 2017\Projects\Lineput\Lineput\obj\Debug\Lineput.FrmMaker.resources
+C:\Users\ZouJin\Documents\Visual Studio 2017\Projects\Lineput\Lineput\obj\Debug\Lineput.Resources.resources
+C:\Users\ZouJin\Documents\Visual Studio 2017\Projects\Lineput\Lineput\obj\Debug\Lineput.vbproj.GenerateResource.Cache
+C:\Users\ZouJin\Documents\Visual Studio 2017\Projects\Lineput\Lineput\obj\Debug\Lineput.TrustInfo.xml
+C:\Users\ZouJin\Documents\Visual Studio 2017\Projects\Lineput\Lineput\obj\Debug\Lineput.exe.manifest
+C:\Users\ZouJin\Documents\Visual Studio 2017\Projects\Lineput\Lineput\obj\Debug\Lineput.application
+C:\Users\Zou Jin\Documents\Visual Studio 2013\Projects\Lineput\Lineput\obj\Debug\Lineput.vbprojResolveAssemblyReference.cache

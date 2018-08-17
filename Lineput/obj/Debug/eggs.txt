@@ -1,0 +1,4 @@
+﻿Egg
+菜单系统/n Egg made by LB  /n你可以修改/path\eggs.txt来修改egg
+path
+LinePut文件夹：/path
